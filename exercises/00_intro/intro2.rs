@@ -8,5 +8,6 @@
 // I AM NOT DONE
 
 fn main() {
-    printline!("Hello there!")
+    //Need to replace with legal command println!
+    println!("Hello there!");
 }
